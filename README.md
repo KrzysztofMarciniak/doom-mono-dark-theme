@@ -1,4 +1,5 @@
 # doom-mono-dark-theme
+![theme.png](theme.png)
 [doom emacs faq.org](https://github.com/doomemacs/doomemacs/blob/master/docs/faq.org#how-do-i-change-the-theme)
 
 ``` shell
