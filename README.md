@@ -1,0 +1,1 @@
+# doom-mono-dark-theme
